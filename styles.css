@@ -163,7 +163,7 @@ select:focus {
     }
     
     #damage-output {
-        font-size: 1.25rem; /* Slightly larger text on mobile */
+        font-size: 1.05rem; /* Slightly larger text on mobile */
     }
 }
 
@@ -184,7 +184,7 @@ select:focus {
     }
     
     #damage-output {
-        font-size: 1.25rem; /* Slightly larger text on mobile */
+        font-size: 1.05rem; /* Slightly larger text on mobile */
     }
 }
 
@@ -210,7 +210,7 @@ select:focus {
     }
     
     #damage-output {
-        font-size: 1.5rem; /* Larger text for iPads */
+        font-size: 1.10rem; /* Larger text for iPads */
     }
 }
 
